@@ -221,7 +221,7 @@ export default function SantaWishList() {
                                 : "bg-red-600 text-white shadow-lg shadow-red-500/50"
                             }`}
                           >
-                            {wish.rating === "nice" ? "✨ NICE" : "🔥 NAUGHTY"}
+                            {wish.rating === "nice" ? "✨ NICE" : "Not so Nice List!"}
                           </span>
                         </div>
                       )}
